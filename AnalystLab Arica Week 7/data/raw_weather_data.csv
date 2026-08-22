@@ -1,0 +1,6 @@
+city,temperature,humidity,weather_condition,wind_speed,date_time
+Lagos,28.91,70,broken clouds,3.39,2026-08-22 09:40:56
+Abuja,27.17,75,scattered clouds,1.78,2026-08-22 09:50:18
+Port Harcourt,26.92,78,light rain,3.27,2026-08-22 09:51:30
+Kano,31.74,48,scattered clouds,4.03,2026-08-22 09:51:15
+Enugu,26.87,82,overcast clouds,2.66,2026-08-22 09:51:34
