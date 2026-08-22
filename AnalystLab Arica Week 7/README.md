@@ -1,6 +1,6 @@
 # 🌦️ Real-Time Weather ETL Pipeline
 
-## 📌 Project Overview
+## 📌 Project OvervieW
 
 This project demonstrates the development of a basic ETL (Extract, Transform, Load) pipeline using real-time weather data from the OpenWeather API.
 
